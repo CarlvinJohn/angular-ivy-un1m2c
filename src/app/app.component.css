@@ -1,0 +1,21 @@
+h1 {
+  font-family: 'Times New Roman';
+  color: crimson;
+  text-align: center;
+
+}
+table {
+  width: 400px;
+}
+th {
+  text-align: left;
+}
+td {
+  text-align: center;
+}
+table, th, td {
+  border: 1px solid cornflowerblue;
+}
+th, td{
+  padding: 5px;
+}
